@@ -17,6 +17,10 @@ This project demonstrates real-world data engineering workflows for portfolio an
 - [License](#license)
 
 ---
+## Configuration
+Create a `.env` file in the project root:
+WEATHER_API_KEY=your_api_key_here
+
 
 ## 📖 Overview
 This project simulates a production-grade ETL pipeline:
@@ -42,4 +46,5 @@ This project simulates a production-grade ETL pipeline:
 - **Other Tools:** Docker, AWS (optional), Jupyter Notebooks  
 
 ---
+
 
