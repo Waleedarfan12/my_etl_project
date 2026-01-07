@@ -1,0 +1,18 @@
+2026-01-07 13:01:40,593 [INFO] ETL: ✅ Integrated dataset saved → /mnt/d/WSLProjects/my-etl-pipeline/my_etl_project/data/processed/integrated_dataset.parquet
+2026-01-07 13:01:40,594 [INFO] ETL:    transaction_id       date customer_id  gender  age product_category  ...  season  temperature  humidity  condition  headline_text sentiment
+0             522 2023-01-01     CUST522    Male   46           Beauty  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+1             180 2023-01-01     CUST180    Male   41         Clothing  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+2             559 2023-01-01     CUST559  Female   40         Clothing  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+3             303 2023-01-02     CUST303    Male   19      Electronics  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+4             979 2023-01-02     CUST979  Female   19           Beauty  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+
+[5 rows x 17 columns]
+2026-01-07 13:01:40,710 [INFO] ETL: ✅ Integrated dataset saved → /mnt/d/WSLProjects/my-etl-pipeline/my_etl_project/data/processed/integrated_dataset.parquet
+2026-01-07 13:01:40,713 [INFO] ETL:    transaction_id       date customer_id  gender  age product_category  ...  season  temperature  humidity  condition  headline_text sentiment
+0             522 2023-01-01     CUST522    Male   46           Beauty  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+1             180 2023-01-01     CUST180    Male   41         Clothing  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+2             559 2023-01-01     CUST559  Female   40         Clothing  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+3             303 2023-01-02     CUST303    Male   19      Electronics  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+4             979 2023-01-02     CUST979  Female   19           Beauty  ...  Winter        10.84      79.5  clear sky            NaN       NaN
+
+[5 rows x 17 columns]
