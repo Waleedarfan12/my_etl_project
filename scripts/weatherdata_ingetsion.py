@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # ✅ Replace with your actual API key
-API_KEY = "5b9e75b9f678d717c20a9fb28741ea2a"
+API_KEY = os.getenv("WEATHER_API_KEY")
 
 # ✅ Cities with lat/lon (you can add more)
 cities = {
